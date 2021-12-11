@@ -1,7 +1,7 @@
 {
 	"song": {
 		"speed": 2.9,
-		"stage": null,
+		"stage": "majinstage",
 		"player1": "bfblue",
 		"player2": "majin",
 		"player3": "gfblue",
