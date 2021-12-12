@@ -1,5 +1,8 @@
 stage
-majinstage
-subway
-wii
-judgement-hall
+spooky
+philly
+limo
+mall
+mallEvil
+school
+schoolEvil
